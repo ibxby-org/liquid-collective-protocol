@@ -90,12 +90,12 @@ const config: HardhatUserConfig = {
       default: 0,
     },
     depositContract: {
-      default: "0x00000000219ab540356cBB839Cbe05303d7705Fa",
-      local: "0x00000000219ab540356cBB839Cbe05303d7705Fa",
-      mainnet: "0x00000000219ab540356cBB839Cbe05303d7705Fa",
-      tenderly: "0x4242424242424242424242424242424242424242",
-      hoodi: "0x00000000219ab540356cBB839Cbe05303d7705Fa",
-      devHoodi: "0x00000000219ab540356cBB839Cbe05303d7705Fa",
+      default: "0x0a502f846F6dc2e3D4d8C595B18b3AF44657B1bD",
+      local: "0x0a502f846F6dc2e3D4d8C595B18b3AF44657B1bD",
+      mainnet: "0x0a502f846F6dc2e3D4d8C595B18b3AF44657B1bD",
+      tenderly: "0x0a502f846F6dc2e3D4d8C595B18b3AF44657B1bD",
+      hoodi: "0x0a502f846F6dc2e3D4d8C595B18b3AF44657B1bD",
+      devHoodi: "0x0a502f846F6dc2e3D4d8C595B18b3AF44657B1bD",
     },
     governor: {
       default: 1,
